@@ -1,0 +1,36 @@
+[submodule "ansible-apache.git"]
+	path = roles/ansible-apache.git
+	url = https://github.com/jebovic/ansible-apache.git
+[submodule "ansible-go.git"]
+	path = roles/ansible-go.git
+	url = https://github.com/andrewrothstein/ansible-go.git
+[submodule "ansible-jq.git"]
+	path = roles/ansible-jq.git
+	url = https://github.com/andrewrothstein/ansible-jq.git
+[submodule "ansible-role-ansible.git"]
+	path = roles/ansible-role-ansible.git
+	url = https://github.com/geerlingguy/ansible-role-ansible.git
+[submodule "ansible-role-docker.git"]
+	path = roles/ansible-role-docker.git
+	url = https://github.com/krzysztof-magosa/ansible-role-docker.git
+[submodule "ansible-role-gcloud.git"]
+	path = roles/ansible-role-gcloud.git
+	url = https://github.com/ericsysmin/ansible-role-gcloud.git
+[submodule "ansible-role-git.git"]
+	path = roles/ansible-role-git.git
+	url = https://github.com/geerlingguy/ansible-role-git.git
+[submodule "ansible-role-helm.git"]
+	path = roles/ansible-role-helm.git
+	url = https://github.com/geerlingguy/ansible-role-helm.git
+[submodule "ansible-role-make.git"]
+	path = roles/ansible-role-make.git
+	url = https://github.com/manala/ansible-role-make.git
+[submodule "ansible-role-python3.git"]
+	path = roles/ansible-role-python3.git
+	url = https://github.com/darkwizard242/ansible-role-python3.git
+[submodule "ansible-role-terraform.git"]
+	path = roles/ansible-role-terraform.git
+	url = https://github.com/darkwizard242/ansible-role-terraform.git
+[submodule "ansible-yq.git"]
+	path = roles/ansible-yq.git
+	url = https://github.com/andrewrothstein/ansible-yq.git
